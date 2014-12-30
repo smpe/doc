@@ -1,4 +1,7 @@
-doc
-===
+# Smpe Developer Documentation
 
-smpe developer's documents.
+Select your language:
+
+[English](en/README.md)
+
+[中文](zh/README.md)
