@@ -37,4 +37,6 @@
 
 ## 阅读导航
 
+[<<Smpe开发者文档](README.md)
+[[目录](README.md)]
 [Smpe概述>>](0.md)
